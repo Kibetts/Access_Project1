@@ -2,7 +2,7 @@
 
 ### By Brian Kibet
 
-This is a descriotion of my resume.
+This is a description of my resume.
 
 ## Table of Content
 
