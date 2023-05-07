@@ -23,10 +23,10 @@ header {
 }
 
 .profile-picture {
-	width: 100px;
-	border-radius: 50%;
+	width: 200px;
+	border-radius: 40%;
     float: left;
-	margin-right: 10px;
+	margin-left: 60px;
 	
 }
 
@@ -51,9 +51,10 @@ p {
 	color: black;
 	padding: 10px 20px;
 	border-radius: 5px;
+    border-color: plum;
 	font-size: 24px;
 	display: inline-block;
-	cursor: pointer;
+	
 }
 
 main {
@@ -79,5 +80,25 @@ li {
 	margin-bottom: 10px;
 }
 
-footer {
-	background-color: black
+.books{
+    width: 200px;
+    border: 5px solid;
+    border-radius: 20px;
+    border-color: aqua;
+
+}
+.tax{
+    width: 200px;
+    border: 5px solid;
+    border-radius: 20px;
+    border-color: aqua;
+
+}
+.returns{
+    width: 200px;
+    border: 5px solid;
+    border-radius: 20px;
+    border-color: aqua;
+
+}
+
