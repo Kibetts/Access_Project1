@@ -1,0 +1,15 @@
+.top{
+    background-color: gold;
+    display: flex;
+    flex-direction: row;
+    width: 50%;
+    height: 50%;
+}
+
+.topleft {
+    background-color: gray;
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    height: 50%;
+}
