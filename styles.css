@@ -1,4 +1,10 @@
-body {
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/*body {
 	background-color: lightblue;
 	margin: 0;
 	font-family: Arial, sans-serif;
@@ -52,7 +58,7 @@ header {
 
 h1 {
 	font-size: 36px;
-	/* margin: 0; */
+	/* margin: 0; 
 }
 
 p {
@@ -94,9 +100,9 @@ li {
 	font-size: 18px;
 	line-height: 1.5;
 	margin-bottom: 10px;
-}
+}*/
 
-.books{
+/*.books{
     width: 200px;
     border: 5px solid;
     border-radius: 20px;
@@ -123,6 +129,23 @@ section.{
       
 h2 {
     flex: 0.4
- }
-
-
+ }*/
+.navigables{
+    position:relative;
+    width:fit-content%;
+    height: 100vh;
+    background: dimgray;
+}
+nav{
+    display: flex;
+    width: 84%;
+    margin: auto;
+    padding: 20px 0;
+    align-items: center;
+    justify-content: space-between;
+}
+nav ul li{
+    display: inline-block;
+    list-style: none;
+    margin: 10 px 20px;
+}
