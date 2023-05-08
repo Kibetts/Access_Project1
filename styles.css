@@ -1,10 +1,4 @@
-*{
-    margin: 0;
-    padding: 0;
-    font-family: Arial, Helvetica, sans-serif;
-}
-
-/*body {
+body {
 	background-color: lightblue;
 	margin: 0;
 	font-family: Arial, sans-serif;
@@ -46,7 +40,9 @@ header {
     height: 200px;
 	border-radius: 50%;
     float: left;
-	margin:auto;
+	margin:20px;
+    margin-right: 20px;
+
 
 	
 }
@@ -58,7 +54,7 @@ header {
 
 h1 {
 	font-size: 36px;
-	/* margin: 0; 
+	/* margin: 0; */
 }
 
 p {
@@ -90,7 +86,7 @@ h2 {
 	margin: 0 0 20px;
 }
 
-l {
+l{
 	list-style: none;
 	padding: 0;
 	margin: 0;
@@ -100,9 +96,9 @@ li {
 	font-size: 18px;
 	line-height: 1.5;
 	margin-bottom: 10px;
-}*/
+}
 
-/*.books{
+.books{
     width: 200px;
     border: 5px solid;
     border-radius: 20px;
@@ -129,23 +125,32 @@ section.{
       
 h2 {
     flex: 0.4
- }*/
-.navigables{
-    position:relative;
-    width:fit-content%;
+ }
+navigation{
+    position: relative;
+    width: 100%;
     height: 100vh;
-    background: dimgray;
 }
-nav{
+
+.hero{
     display: flex;
     width: 84%;
     margin: auto;
-    padding: 20px 0;
+    padding: 20px;
     align-items: center;
     justify-content: space-between;
 }
-nav ul li{
+.hero ul li{
     display: inline-block;
     list-style: none;
-    margin: 10 px 20px;
+    padding: 10px 20px;
+    justify-content: space-between;
+   
 }
+.hero ul li{
+        position: relative;
+        padding: 5px 0;
+    
+}
+
+
