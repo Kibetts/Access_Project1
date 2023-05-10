@@ -183,7 +183,7 @@ navigation{
     padding: 15px;
     border-radius: 25px;
     max-width: auto;
-    
+    width: 50%;
 }
 .me{
     color: orange;
