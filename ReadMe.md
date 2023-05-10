@@ -6,11 +6,11 @@ This is a description of my resume.
 
 ## Table of Content
 
-* Description
-* Installation Requirements
-* Technology Used
-* License
-* Author's Info
+* [Description](Description)
+* [Installation Requirements](Installation)
+* [Technology](Technology Used)
+* [Lcense][License]
+* [Author](Author's Info)
 
 ## Description
 
@@ -18,7 +18,7 @@ This is a website showcasing my portfolio. It contains my background information
 
 ## Installation
 
-## Requirements
+### Requirements
 
 * Internet connection
 * A computer, phone ot tablet
@@ -38,7 +38,4 @@ Under this software license agreement, the author grants to the user a non exclu
 [Slack](https://moringa.instructure.com/profile)
 
 [Draft][draft](https://user-images.githubusercontent.com/132659578/236797363-b41a67bc-3eab-499a-b277-2c3bde0a6bb8.jpeg)
-
-
-
 
