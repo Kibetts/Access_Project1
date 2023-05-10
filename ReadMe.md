@@ -37,5 +37,5 @@ Under this software license agreement, the author grants to the user a non exclu
 
 [Slack](https://moringa.instructure.com/profile)
 
-[Draft](https://github.com/Kibetts/Access_Project1/assets/132659578/5932da23-e396-415e-94f2-a450f6412d71)
+[Draft](https://github.com/Kibetts/Access_Project1/assets/132659578/08e380c9-8956-426a-bf4c-c1edfb709734)
 
