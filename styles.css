@@ -169,7 +169,24 @@ navigation{
       
     
 }
-
-   
+#string{
+    margin-left: 20px;
+    margin-top: 10%;
+}
+#intro{
+    font-size: 70px;
+}
+#description{
+    font-size: 30px;
+    border-style: solid;
+    border-color: darkorange;
+    padding: 15px;
+    border-radius: 25px;
+    max-width: auto;
+    
+}
+.me{
+    color: orange;
+}
 
 
